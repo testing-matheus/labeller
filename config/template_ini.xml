@@ -1,0 +1,13 @@
+<annotation>
+	<folder>folder_var</folder>
+	<filename>filename_var</filename>
+	<path>path_var</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>image_width</width>
+		<height>image_height</height>
+		<depth>image_depth</depth>
+	</size>
+	<segmented>0</segmented>

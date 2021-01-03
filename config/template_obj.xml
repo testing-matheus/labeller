@@ -1,0 +1,13 @@
+
+	<object>
+		<name>class_var</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>xmin_var</xmin>
+			<ymin>ymin_var</ymin>
+			<xmax>xmax_var</xmax>
+			<ymax>ymax_var</ymax>
+		</bndbox>
+	</object>
