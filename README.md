@@ -22,5 +22,3 @@ $ python main.py
 Comienza a etiquetar
 ```
 Una buena metodología en el caso de tener una clase por imagen es tener las clases separadas por carpetas, te hará avanzar más rápido y los trackers serán más efectivos, en el caso de que no quieras usar trackers usa el DoNothing, puede ser el caso en el que el tracker no sea la opción más rápida debido a que las imagenes son muy distintas entre si.
-
-Agradecimientos a PSINet.
